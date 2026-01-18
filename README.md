@@ -1,7 +1,7 @@
 # Dropdowns
 A prototype featuring multiple dropdown menus.
 
-Created in 2019 as a personal project to deepen my JavaScript skills.
+Created in 2019 as a personal project to improve my JavaScript skills.
 
 [See the live demo here](https://www.mjwals.co.uk/multidropdowns/)
 ## Tech stack
